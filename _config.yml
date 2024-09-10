@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jikun Zhou / 计算物理B"
+title                    : "Computational Physics / 计算物理B"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "zhoujikunn/zhoujikunn.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Jikun Zhou"
+  name             : "Computational Physics"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
