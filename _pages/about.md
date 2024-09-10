@@ -16,7 +16,7 @@ redirect_from:
   
 参考书籍及资料
 ======
-[计算物理学，马文淦](files/计算物理学.pdf)
+[计算物理学，马文淦]([files/计算物理学.pdf](https://github.com/ZhouJikunn/ZhouJikunn.github.io/blob/010cc59b7236c85e5c6c89aada11d3b6aed3423a/files/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E5%AD%A6.pdf))
   
 作业要求
 =======
