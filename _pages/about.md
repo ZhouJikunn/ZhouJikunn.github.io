@@ -10,9 +10,9 @@ redirect_from:
 
 课件
 ======
-2024.9.3:[计算与物理](http://zhoujikunn.github.io/files/计算与物理.pdf)
+2024.9.3 : [计算与物理](http://zhoujikunn.github.io/files/计算与物理.pdf)
 
-2024.9.4:[蒙卡算法-背景](http://zhoujikunn.github.io/files/蒙卡算法-背景.pdf)
+2024.9.4 : [蒙卡算法-背景](http://zhoujikunn.github.io/files/蒙卡算法-背景.pdf)
 
 
 参考书籍及资料
