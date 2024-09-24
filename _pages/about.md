@@ -37,7 +37,7 @@ redirect_from:
 作业得分情况
 ======
 请同学们及时查看，得分中带*号的同学请联系助教魏梦杰（邮箱or微信）。
-[第一次作业参考答案](http://zhoujikunn.github.io/files/作业成绩.pdf)
+[第一次作业参考答案](http://zhoujikunn.github.io/files/作业成绩.xlsx)
 
 助教信息
 ======
