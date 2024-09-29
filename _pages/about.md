@@ -14,8 +14,10 @@ redirect_from:
 
 2024.9.10 : [蒙卡算法-背景](http://zhoujikunn.github.io/files/蒙卡算法-背景.pdf)
 
-2024.9.24: : [蒙卡算法-基础](http://zhoujikunn.github.io/files/蒙卡算法：基础.pdf)，[蒙卡算法-抽样方法](http://zhoujikunn.github.io/files/蒙卡算法：抽样方法.pdf)
-  
+2024.9.24 : [蒙卡算法-基础](http://zhoujikunn.github.io/files/蒙卡算法：基础.pdf)，[蒙卡算法-抽样方法](http://zhoujikunn.github.io/files/蒙卡算法：抽样方法.pdf)
+
+2024.9.29 : [蒙卡算法-抽样方法](http://zhoujikunn.github.io/files/蒙卡算法：抽样方法2.pdf)
+
 参考书籍及资料
 ======
 [计算物理学，马文淦](http://zhoujikunn.github.io/files/计算物理学.pdf)
