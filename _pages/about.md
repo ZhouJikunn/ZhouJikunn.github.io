@@ -18,7 +18,7 @@ redirect_from:
 
 2024.9.29 : [蒙卡算法-抽样方法](http://zhoujikunn.github.io/files/蒙卡算法：抽样方法2.pdf)
 
-2024.10.8 ： [蒙卡算法-随机游走](http://zhoujikunn.github.io/files/蒙卡算法：随机游走.pdf)
+2024.10.8 : [蒙卡算法-随机游走](http://zhoujikunn.github.io/files/蒙卡算法：随机游走.pdf)
 
 参考书籍及资料
 ======
