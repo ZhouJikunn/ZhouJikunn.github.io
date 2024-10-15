@@ -20,7 +20,7 @@ redirect_from:
 
 2024.10.8 : [蒙卡算法-随机游走](http://zhoujikunn.github.io/files/蒙卡算法：随机游走.pdf)
 
-2024.10.15 : [蒙卡算法-随机游走](http://zhoujikunn.github.io/files/蒙卡算法：随机游走2.pdf), [蒙卡算法-积分](http://zhoujikunn.github.io/files/蒙卡算法：积分.pdf)
+2024.10.15 : [蒙卡算法-随机游走](http://zhoujikunn.github.io/files/蒙卡算法：随机游走2.pdf)，[蒙卡算法-积分](http://zhoujikunn.github.io/files/蒙卡算法：积分.pdf)
 
 参考书籍及资料
 ======
