@@ -22,6 +22,9 @@ redirect_from:
 
 2024.10.15 : [蒙卡算法-随机游走](http://zhoujikunn.github.io/files/蒙卡算法：随机游走2.pdf)，[蒙卡算法-积分](http://zhoujikunn.github.io/files/蒙卡算法：积分.pdf)
 
+2024.10.22 : [蒙卡算法-积分](http://zhoujikunn.github.io/files/蒙卡算法：积分2.pdf)，[差分法](http://zhoujikunn.github.io/files/差分法.pdf)
+
+
 参考书籍及资料
 ======
 [计算物理学，马文淦](http://zhoujikunn.github.io/files/计算物理学.pdf)
@@ -41,6 +44,8 @@ redirect_from:
 第二次作业参考答案 ：[第二次作业参考答案](http://zhoujikunn.github.io/files/第二次作业参考答案.pdf)
 
 第三次作业参考答案 ：[第三次作业参考答案](http://zhoujikunn.github.io/files/第三次作业参考答案.pdf)
+
+第四次作业参考答案 ：[第四次作业参考答案](http://zhoujikunn.github.io/files/第四次作业参考答案.pdf)
 
 作业答案仅供参考，欢迎同学们提出更多简单高效的算法。另外需要说明的是，希望同学们在完成作业时尽量书写清晰，步骤完整，说明详细，避免助教在批改时未能get到而扣分。如有错批漏批请及时联系助教。
 
