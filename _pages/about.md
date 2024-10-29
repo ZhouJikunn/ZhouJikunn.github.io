@@ -24,6 +24,8 @@ redirect_from:
 
 2024.10.22 : [蒙卡算法-积分](http://zhoujikunn.github.io/files/蒙卡算法：积分2.pdf)，[差分法](http://zhoujikunn.github.io/files/差分法.pdf)
 
+2024.10.29 ：[差分法](http://zhoujikunn.github.io/files/差分法.pdf)，[差分法-笔记](http://zhoujikunn.github.io/files/差分法-笔记.pdf)
+
 
 参考书籍及资料
 ======
