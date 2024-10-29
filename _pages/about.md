@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Pages For Computational Physics B"
+thttps://github.com/ZhouJikunn/ZhouJikunn.github.io/blob/master/_pages/about.mditle: "Pages For Computational Physics B"
 author_profile: true
 redirect_from: 
   - /about/
