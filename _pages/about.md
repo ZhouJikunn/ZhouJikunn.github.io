@@ -47,6 +47,8 @@ redirect_from:
 
 第四次作业参考答案 ：[第四次作业参考答案](http://zhoujikunn.github.io/files/第四次作业参考答案.pdf)
 
+第五次作业参考答案 ：
+
 作业答案仅供参考，欢迎同学们提出更多简单高效的算法。另外需要说明的是，希望同学们在完成作业时尽量书写清晰，步骤完整，说明详细，避免助教在批改时未能get到而扣分。如有错批漏批请及时联系助教。
 
 作业得分情况
@@ -56,6 +58,9 @@ redirect_from:
 第一、二次作业成绩：[第一、二次作业成绩](http://zhoujikunn.github.io/files/第一二次作业成绩.pdf)
 
 第三次作业成绩：[第三次作业成绩](http://zhoujikunn.github.io/files/第三次作业成绩.pdf)
+
+第三、四、五次作业成绩（更新日期10.29）：[第三四五次作业成绩](http://zhoujikunn.github.io/files/第三四五次作业成绩.pdf)
+
 
 助教信息
 ======
