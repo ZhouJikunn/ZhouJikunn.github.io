@@ -26,10 +26,15 @@ redirect_from:
 
 2024.10.29 ：[差分法](http://zhoujikunn.github.io/files/差分法2.pdf)，[差分法-笔记](http://zhoujikunn.github.io/files/差分法-笔记.pdf)
 
+2024.11.5 ：[有限元](http://zhoujikunn.github.io/files/差分法2.pdf)，[有限元](http://zhoujikunn.github.io/files/有限元1.pdf)
+
 
 参考书籍及资料
 ======
 [计算物理学，马文淦](http://zhoujikunn.github.io/files/计算物理学.pdf)
+
+[Hockney论文](http://zhoujikunn.github.io/files/Hockney.pdf)
+
   
 作业要求
 =======
@@ -50,6 +55,8 @@ redirect_from:
 第四次作业参考答案 ：[第四次作业参考答案](http://zhoujikunn.github.io/files/第四次作业参考答案.pdf)
 
 第五次作业参考答案 ：[第五次作业参考答案](http://zhoujikunn.github.io/files/第五次作业参考答案.pdf)
+
+第六次作业参考答案 ：[第六次作业参考答案](http://zhoujikunn.github.io/files/第六次作业参考答案.pdf)
 
 作业答案仅供参考，欢迎同学们提出更多简单高效的算法。另外需要说明的是，希望同学们在完成作业时尽量书写清晰，步骤完整，说明详细，避免助教在批改时未能get到而扣分。如有错批漏批请及时联系助教。
 
