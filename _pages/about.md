@@ -26,7 +26,7 @@ redirect_from:
 
 2024.10.29 ：[差分法](http://zhoujikunn.github.io/files/差分法2.pdf)，[差分法-笔记](http://zhoujikunn.github.io/files/差分法-笔记.pdf)
 
-2024.11.5 ：[有限元](http://zhoujikunn.github.io/files/差分法2.pdf)，[有限元](http://zhoujikunn.github.io/files/有限元1.pdf)
+2024.11.5 ：[有限元](http://zhoujikunn.github.io/files/有限元1.pdf)
 
 
 参考书籍及资料
