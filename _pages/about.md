@@ -28,6 +28,8 @@ redirect_from:
 
 2024.11.5 ：[有限元](http://zhoujikunn.github.io/files/有限元1.pdf)
 
+2024.11.12 ：[有限元](http://zhoujikunn.github.io/files/有限元2.pdf)
+
 
 参考书籍及资料
 ======
