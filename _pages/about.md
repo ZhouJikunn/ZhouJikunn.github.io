@@ -30,6 +30,8 @@ redirect_from:
 
 2024.11.12 ：[有限元](http://zhoujikunn.github.io/files/有限元2.pdf)
 
+2024.11.19 ：[三角剖分](http://zhoujikunn.github.io/files/三角剖分.pdf)
+
 
 参考书籍及资料
 ======
@@ -37,6 +39,9 @@ redirect_from:
 
 [Hockney论文](http://zhoujikunn.github.io/files/Hockney.pdf)
 
+[Thijssen-Computational Physics](http://zhoujikunn.github.io/files/参考资料1.pdf)
+
+[Simon-Computational Physics](http://zhoujikunn.github.io/files/参考资料2.pdf)
   
 作业要求
 =======
