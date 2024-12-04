@@ -32,6 +32,8 @@ redirect_from:
 
 2024.11.19 ：[三角剖分](http://zhoujikunn.github.io/files/三角剖分.pdf)
 
+2024.12.3 ：[分子动力学](http://zhoujikunn.github.io/files/分子动力学参考资料.pdf)
+
 
 参考书籍及资料
 ======
@@ -75,7 +77,7 @@ redirect_from:
 ======
 请同学们及时查看，得分中带*号的同学请联系助教魏梦杰（邮箱or微信），黄色标注的是迟交作业换算过后的分数。
 
-作业成绩更新(11.26)：[作业成绩](http://zhoujikunn.github.io/files/作业成绩.pdf)
+作业成绩更新(12.4)：[作业成绩](http://zhoujikunn.github.io/files/作业成绩.pdf)
 
 助教信息
 ======
