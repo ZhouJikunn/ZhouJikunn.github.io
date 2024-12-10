@@ -34,6 +34,8 @@ redirect_from:
 
 2024.12.3 ：[分子动力学](http://zhoujikunn.github.io/files/分子动力学参考资料.pdf)
 
+2024.12.10 ：[分子动力学](http://zhoujikunn.github.io/files/分子动力学1.pdf)
+
 
 参考书籍及资料
 ======
