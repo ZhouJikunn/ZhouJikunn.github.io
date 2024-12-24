@@ -38,6 +38,8 @@ redirect_from:
 
 2024.12.17 ：[分子动力学课件2](http://zhoujikunn.github.io/files/分子动力学2.pdf)
 
+2024.12.24 ：[分子动力学课件3](http://zhoujikunn.github.io/files/分子动力学3.pdf)，[分子动力学课件4](http://zhoujikunn.github.io/files/分子动力学4.pdf)
+
 
 参考书籍及资料
 ======
@@ -79,13 +81,15 @@ redirect_from:
 
 第十次作业参考答案 ：[第十次作业参考答案](http://zhoujikunn.github.io/files/第十次作业参考答案.pdf)
 
+第十一次作业参考答案 ：[第十次作业参考答案](http://zhoujikunn.github.io/files/第十一次作业参考答案.pdf)
+
 作业答案仅供参考，欢迎同学们提出更多简单高效的算法。另外需要说明的是，希望同学们在完成作业时尽量书写清晰，步骤完整，说明详细，避免助教在批改时未能get到而扣分。如有错批漏批请及时联系助教。
 
 作业得分情况
 ======
 请同学们及时查看，得分中带*号的同学请联系助教魏梦杰（邮箱or微信），黄色标注的是迟交作业换算过后的分数。
 
-作业成绩更新(12.17)：[作业成绩](http://zhoujikunn.github.io/files/作业成绩12_17.pdf)
+作业成绩更新(12.24)：[作业成绩](http://zhoujikunn.github.io/files/作业成绩12_24.pdf)
 
 助教信息
 ======
