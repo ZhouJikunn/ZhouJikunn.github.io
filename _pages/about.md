@@ -32,7 +32,7 @@ redirect_from:
 
 2024.11.19 ：[三角剖分](http://zhoujikunn.github.io/files/三角剖分.pdf)
 
-2024.12.3 ：[分子动力学](http://zhoujikunn.github.io/files/分子动力学参考资料.pdf)
+2024.12.3 ：[分子动力学参考资料](http://zhoujikunn.github.io/files/分子动力学参考资料.pdf)
 
 2024.12.10 ：[分子动力学课件1](http://zhoujikunn.github.io/files/分子动力学1.pdf)
 
