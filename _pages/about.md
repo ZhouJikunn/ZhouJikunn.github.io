@@ -91,7 +91,7 @@ redirect_from:
 ======
 请同学们及时查看，得分中带*号的同学请联系助教魏梦杰（邮箱or微信），黄色标注的是迟交作业换算过后的分数。
 
-作业成绩更新(12.24)：[作业成绩](http://zhoujikunn.github.io/files/作业成绩12_24.pdf)
+作业成绩更新(2025.1.8)：[作业成绩](http://zhoujikunn.github.io/files/作业成绩2025_1_8.pdf)
 
 助教信息
 ======
