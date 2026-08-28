@@ -20,19 +20,19 @@
   "experience": [
     {
       "years": "2015.09—2018.06",
-      "title": "高中阶段",
+      "title": "高中",
       "place": "江苏省镇江中学",
       "note": ""
     },
     {
       "years": "2018.09—2022.06",
-      "title": "物理学",
+      "title": "本科",
       "place": "苏州大学",
       "note": "专业：物理学"
     },
     {
       "years": "2022.09—至今",
-      "title": "凝聚态理论方向",
+      "title": "研究生",
       "place": "中国科学技术大学",
       "note": "研究方向：凝聚态理论"
     }
@@ -41,7 +41,7 @@
     {
       "year": "2026",
       "type": "JOURNAL ARTICLE",
-      "title": "Physical Review B, 103, 224203",
+      "title": "Magnon Thermal Hall Effect Induced by Symmetric Exchange Interaction",
       "authors": "Jikun Zhou, Yang Gao and Qian Niu",
       "venue": "PRB · 103 · 224203 (2026)",
       "href": "",
@@ -50,7 +50,7 @@
     {
       "year": "2026",
       "type": "PREPRINT",
-      "title": "arXiv:2608.17225",
+      "title": "Windmill Spin Dynamics and Its Induced Anomalous Hall Effect in Noncollinear Antiferromagnet Mn\textsubscript{3}Sn",
       "authors": "Jikun Zhou, Yang Gao and Qian Niu",
       "venue": "arXiv · 2608.17225 (2026)",
       "href": "https://arxiv.org/abs/2608.17225",
