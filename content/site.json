@@ -10,8 +10,8 @@
     "bio": "这里是一段可在后台修改的个人简介。可以用两到三句话概括你的研究方向、当前工作，以及你希望通过研究解决的问题。",
     "interests": ["Spin Dyanmics", "Transport Phenmenon", "Quantum Geometry"],
     "links": [
-      {"label": "Google Scholar", "href": "https://scholar.google.com/"},
-      {"label": "ORCID", "href": "https://orcid.org/"},
+      {"label": "Google Scholar", "href": "https://scholar.google.com/citations?hl=zh-CN&user=iB3GauUAAAAJ"},
+      {"label": "ORCID", "href": "https://orcid.org/my-orcid?orcid=0009-0003-2823-0086"},
       {"label": "GitHub", "href": "https://github.com/zhoujikunn"}
     ]
   },
