@@ -8,7 +8,7 @@
     "location": "合肥，中国",
     "email": "zhoujikun@mail.ustc.edu.cn",
     "image": "/images/profile.jpg",
-    "bio": "目前在中国科学技术大学开展凝聚态理论方向的学习与研究。",
+    "bio": "",
     "interests": ["Spin Dyanmics", "Transport Phenomenon", "Quantum Geometry"],
     "links": [
       {"label": "Google Scholar", "href": "https://scholar.google.com/"},
