@@ -1,0 +1,22 @@
+{
+  "profile": {
+    "name": "周继坤",
+    "nameEn": "Jikun Zhou",
+    "initials": "JZ",
+    "role": "科研人员 · 个人学术主页",
+    "organization": "中国科学技术大学 · 单位信息待更新",
+    "location": "合肥，中国",
+    "email": "zhoujikun@mail.ustc.edu.cn",
+    "bio": "这里是一段可在后台修改的个人简介。可以用两到三句话概括你的研究方向、当前工作，以及你希望通过研究解决的问题。",
+    "interests": ["研究方向一", "研究方向二", "研究方向三"],
+    "links": [
+      {"label": "Google Scholar", "href": "https://scholar.google.com/"},
+      {"label": "ORCID", "href": "https://orcid.org/"},
+      {"label": "GitHub", "href": "https://github.com/zhoujikunn"}
+    ]
+  },
+  "research": ["研究主题一", "研究主题二", "研究主题三"],
+  "experience": [],
+  "publications": [],
+  "updates": []
+}
