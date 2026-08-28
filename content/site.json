@@ -20,21 +20,21 @@
   "experience": [
     {
       "years": "2015.09—2018.06",
-      "title": "高中",
-      "place": "江苏省镇江中学",
+      "title": "High School",
+      "place": "Jiangsu Zhenjiang High School",
       "note": ""
     },
     {
       "years": "2018.09—2022.06",
-      "title": "本科",
-      "place": "苏州大学",
-      "note": "专业：物理学"
+      "title": "Undergraduate",
+      "place": "Soochow University",
+      "note": "Major：Physics"
     },
     {
-      "years": "2022.09—至今",
-      "title": "研究生",
-      "place": "中国科学技术大学",
-      "note": "研究方向：凝聚态理论"
+      "years": "2022.09—Now",
+      "title": "Graduate",
+      "place": "University of Science and Technology of China",
+      "note": "Research area: Condensed Matter Theory"
     }
   ],
   "publications": [
