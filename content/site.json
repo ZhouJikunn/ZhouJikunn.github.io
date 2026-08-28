@@ -3,20 +3,59 @@
     "name": "周继坤",
     "nameEn": "Jikun Zhou",
     "initials": "JZ",
-    "role": "博士研究生 · 个人主页",
-    "organization": "中国科学技术大学 · 物理学院",
+    "role": "凝聚态理论方向 · 个人学术主页",
+    "organization": "中国科学技术大学",
     "location": "合肥，中国",
     "email": "zhoujikun@mail.ustc.edu.cn",
-    "bio": "这里是一段可在后台修改的个人简介。可以用两到三句话概括你的研究方向、当前工作，以及你希望通过研究解决的问题。",
-    "interests": ["Spin Dyanmics", "Transport Phenmenon", "Quantum Geometry"],
+    "image": "/images/profile.jpg",
+    "bio": "目前在中国科学技术大学开展凝聚态理论方向的学习与研究。",
+    "interests": ["凝聚态理论"],
     "links": [
-      {"label": "Google Scholar", "href": "https://scholar.google.com/citations?hl=zh-CN&user=iB3GauUAAAAJ"},
-      {"label": "ORCID", "href": "https://orcid.org/my-orcid?orcid=0009-0003-2823-0086"},
+      {"label": "Google Scholar", "href": "https://scholar.google.com/"},
+      {"label": "ORCID", "href": "https://orcid.org/"},
       {"label": "GitHub", "href": "https://github.com/zhoujikunn"}
     ]
   },
-  "research": ["研究主题一", "研究主题二", "研究主题三"],
-  "experience": [],
-  "publications": [],
+  "research": ["凝聚态理论"],
+  "experience": [
+    {
+      "years": "2015.09—2018.06",
+      "title": "高中阶段",
+      "place": "江苏省镇江中学",
+      "note": ""
+    },
+    {
+      "years": "2018.09—2022.06",
+      "title": "物理学",
+      "place": "苏州大学",
+      "note": "专业：物理学"
+    },
+    {
+      "years": "2022.09—至今",
+      "title": "凝聚态理论方向",
+      "place": "中国科学技术大学",
+      "note": "研究方向：凝聚态理论"
+    }
+  ],
+  "publications": [
+    {
+      "year": "2026",
+      "type": "JOURNAL ARTICLE",
+      "title": "Physical Review B, 103, 224203",
+      "authors": "Jikun Zhou, Yang Gao and Qian Niu",
+      "venue": "PRB · 103 · 224203 (2026)",
+      "href": "",
+      "tags": []
+    },
+    {
+      "year": "2026",
+      "type": "PREPRINT",
+      "title": "arXiv:2608.17225",
+      "authors": "Jikun Zhou, Yang Gao and Qian Niu",
+      "venue": "arXiv · 2608.17225 (2026)",
+      "href": "https://arxiv.org/abs/2608.17225",
+      "tags": []
+    }
+  ],
   "updates": []
 }
